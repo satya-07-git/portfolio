@@ -13,38 +13,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
-              <br />
-              <br />
-              I’m proficient in
+              I am a passionate computer science student specializing in
               <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
+                <b className="purple"> IoT &amp; Cybersecurity </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              at <b className="purple">C V Raman Global University</b>, Bhubaneswar.
+              <br />
+              <br />
+              I have a strong foundation in
+              <i>
+                <b className="purple"> C language, Linux command line basics, and system fundamentals</b>
+              </i>
+              — always eager to explore the intersection of hardware, networks, and software security.
               <br />
               <br />
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  IoT Solutions, Cybersecurity defense,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and building innovative real-world safety models.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              I was also honored as a
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple"> Finalist at the NIST Science Exhibition (2023) </b>
               </i>
+              for designing and demonstrating a working model for train and railway accident prevention.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

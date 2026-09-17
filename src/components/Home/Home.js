@@ -4,14 +4,10 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  AiOutlineMail,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaPhoneAlt, FaWhatsapp } from "react-icons/fa";
 
 function Home() {
   return (
@@ -30,7 +26,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> SATYAJEET KUMAR</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -61,45 +57,57 @@ function Home() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://www.linkedin.com/in/satyajeet-kumar-29339638a"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  title="LinkedIn"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="mailto:satyajeet5219@gmail.com"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour home-social-icons"
+                  className="icon-colour  home-social-icons"
+                  title="Email"
                 >
-                  <AiFillInstagram />
+                  <AiOutlineMail />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="tel:+918144976360"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                  title="Phone"
+                >
+                  <FaPhoneAlt />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://wa.me/918144976360"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                  title="WhatsApp"
+                >
+                  <FaWhatsapp />
                 </a>
               </li>
             </ul>
+            <div style={{ marginTop: "20px", color: "white", fontSize: "1.05rem" }}>
+              <p style={{ margin: "6px 0" }}>
+                📧 <a href="mailto:satyajeet5219@gmail.com" style={{ color: "#cd5ff8", textDecoration: "none" }}>satyajeet5219@gmail.com</a>
+              </p>
+              <p style={{ margin: "6px 0" }}>
+                📱 <a href="tel:+918144976360" style={{ color: "#cd5ff8", textDecoration: "none" }}>+91 8144976360</a>
+              </p>
+            </div>
           </Col>
         </Row>
       </Container>
