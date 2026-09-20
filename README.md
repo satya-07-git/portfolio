@@ -1,76 +1,101 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
+<h1 align="center">
+  🚀 Satyajeet Kumar | Portfolio Website
+</h1>
+
+<p align="center">
+  <b>B.Tech in Computer Science and Engineering (IoT &amp; Cybersecurity)</b><br/>
+  <i>C V Raman Global University, Bhubaneswar</i>
+</p>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Banner" src="./Images/readme-img1.png" width="80%" />
 </div>
 
 <br/>
 
-<center>
+<div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+[![React](https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-</center>
+</div>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+---
 
-## TL;DR
+## 👨‍💻 About Me
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Hello! I'm **Satyajeet Kumar**, a passionate Computer Science student specializing in **IoT &amp; Cybersecurity** at **C V Raman Global University, Bhubaneswar** (CPI: **9.21**).
 
-## Built With
+- 🛡️ **Specialization:** IoT &amp; Cybersecurity
+- 🏆 **Achievement:** Finalist at the **NIST Science Exhibition (2023)** for developing a working model for Railway Accident Prevention
+- 💻 **Core Technical Skills:** C / C++, Linux CLI, Python, Networking, SQL, React.js, JavaScript
+- 📬 **Email:** [satyajeet5219@gmail.com](mailto:satyajeet5219@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/satyajeet-kumar-29339638a](https://www.linkedin.com/in/satyajeet-kumar-29339638a)
+- 📱 **Phone / WhatsApp:** [+91 8144976360](https://wa.me/918144976360)
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+---
 
-This project was built using these technologies.
+## 🌟 Featured Projects
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+1. 🎓 **[UniVerse: Campus Utility App](./projects/campus-utility-app)**
+   - Smart Timetable with Attendance Target &amp; Bunk/Attend threshold calculator.
+   - Peer-to-Peer Notes Sharing &amp; Study Resource repository.
+   - Secure Campus Lost &amp; Found network with anti-fraud claim verification.
 
-## Features
+2. 🚂 **Railway Accident Prevention System**
+   - *Finalist at NIST Science Exhibition (2023)*.
+   - Functional working model demonstrating automated collision mitigation and track safety.
 
-**📖 Multi-Page Layout**
+3. 🌐 **IoT Smart Sensor &amp; Alert System**
+   - Real-time telemetry monitoring, threshold detection, and automated alerting across connected endpoints.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+4. 🔒 **Cybersecurity Network Inspector**
+   - Packet header inspection and telemetry analysis for identifying local protocol anomalies and security risks.
 
-**📱 Fully Responsive**
+5. ⚡ **C Language System Utilities**
+   - Low-level system utilities built for Linux environments exploring memory management, file I/O, and process control.
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 🛠️ Built With
 
-## 🛠 Installation and Setup Instructions
+- **Frontend:** React.js, React-Bootstrap, CSS3, Typewriter-effect, React-tsparticles
+- **Icons & Styling:** React-Icons, Tilt parallax, Responsive flexbox layouts
+- **PDF Resume Viewer:** React-PDF &amp; PDF.js
 
-1. Installation: `npm install`
+---
 
-2. In the project directory, you can run: `npm start`
+## 🚀 Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+### Prerequisites
+- Node.js (v14+ recommended)
+- npm or yarn
 
-## Usage Instructions
+### Installation & Run
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+1. Clone or open the repository:
+   ```bash
+   cd Portfolio
+   ```
 
-### Show your support
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Give a ⭐ if you like this website!
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [Satyajeet Kumar](https://www.linkedin.com/in/satyajeet-kumar-29339638a)
+- **Email:** [satyajeet5219@gmail.com](mailto:satyajeet5219@gmail.com)
+- **WhatsApp:** [+91 8144976360](https://wa.me/918144976360)
